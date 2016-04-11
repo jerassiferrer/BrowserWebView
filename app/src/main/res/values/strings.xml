@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TareaNavegadorconbotones</string>
+    <string name="siguiente">Next</string>
+    <string name="anterior">back</string>
+    <string name="detener">stop</string>
+    <string name="ir">go</string>
+</resources>
